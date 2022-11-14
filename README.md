@@ -7,7 +7,7 @@ Avinash Gondela <br>
 Jagath Kaparthi <br>
 Vaibhav Mishra <br>
 Akhilesh Senapati <br>
-PV Sri Harsha <br>
+[P V Sri Harsha](https://github.com/ParimiHarsha) <br>
 
 Implemented object detection using YOLO algorithm. YOLO involves a CNN network and images are processed as arrays of data and common traits are identified. <br>
 
